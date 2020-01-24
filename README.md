@@ -28,4 +28,5 @@ You should take no more than 1-2 days to complete this task.
 
 # Bonus (optional)
 
-Writing a couple of unit tests with the framework of your choice for the available features.
+1. Writing a couple of unit tests with the framework of your choice for the available features.
+2. Solve this challenge using Hooks.
