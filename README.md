@@ -1,5 +1,4 @@
 # mobile-coding-challenge
-SQ One code challenge for mobile developers
 
 
 Hello!
