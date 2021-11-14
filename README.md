@@ -1,4 +1,4 @@
-# mobile-coding-challenge
+# SoniQ Services recruitment task for Mobile Developers
 
 
 Hello!
@@ -29,4 +29,4 @@ You should take no more than 5 hours to complete this task.
 # Bonus (optional)
 
 1. Writing a couple of unit tests with the framework of your choice for the available features.
-3. If the internet connection is dropped, the application continues working. The user has to have a seamless experience and when the internet is back or the application opened again later, all the photos and comments should be up to date
+3. If internet connection is dropped, the application continues working. The user has to have a seamless experience and when the internet is back or the application opened again later, all the photos and comments should be up to date
