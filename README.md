@@ -22,7 +22,7 @@ You should take no more than 5 hours to complete this task.
 2. Organize the data flow using Redux.
 3. Show photo thumbnails in the single screen. The screen should be responsive.
 4. Allow the user to select a photo by pressing on it and then open a pop-up to show the photo with original size.
-5. User can add a comment on a photo and edit or delete it later. User cannot delete other user’s comments.
+5. User can add a comment on a photo and edit or delete it later.
 6. Solve this challenge using Hooks.
 
 
