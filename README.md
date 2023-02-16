@@ -23,5 +23,5 @@ You should take no more than 5-6 hours to complete this task.
 2. Organize the data flow using redux-toolkit.
 3. Show photo thumbnails in the single screen. The screen should be responsive.
 4. Allow the user to select a photo by pressing on it and then open a modal to show the photo with original size.
-5. User can add a comment on a photo and edit or delete it later.
+5. User can add comments on a photo and edit or delete them later.
 6. Solve this challenge using redux-toolkit + react-query + hooks + styled-components + typescript
