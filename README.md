@@ -11,7 +11,7 @@ Good luck to you and hope you will enjoy the process while solving this task!
 
 # Create a photo gallery application
 
-The aim of this exercise is to create a photo gallery application using React Native. Gallery should contain at least 100 photos.
+The aim of this exercise is to create a photo gallery application using React Native (not Expo!). Gallery should contain at least 100 photos.
 You can use REST or GraphQL to get the data.
 
 You should take no more than 5-6 hours to complete this task.
